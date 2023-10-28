@@ -1,16 +1,40 @@
-### Hi there 👋
 
-<!--
-**mgunes71/mgunes71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=mgunes71&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=mgunes71&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+# Murat GÜNEŞ - Front-End Developer
+```
+Makine mühendisliği eğitimimi tamamladıktan sonra, yazılım sektöründe çalışmaya başladım. 
+3 senedir Angular ile çeşitli firmalara projeler geliştiriyorum.
+Kripto Para Borsası, Website geliştirme, Wordpress, Mobile uygulama alanlarında projeler geliştiriyorum.
+Aynı zamanda kendimi FullStack Developer olarak geliştirmeye odaklanıyorum.
+Sürekli yeni bir şeyler öğrenmeye, kendimi geliştirmeye çalışıyorum.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## IDEs and Programs
++ Webstorm
++ VSCode
++ Sublime Text
++ Pycharm
++ Draw.io
++ 7zip
++ Docker Desktop
++ Git
++ PostMan
++ DBeaver
++ KeePasXC
+  
+<hr/>
+
+## ⚡ Some Technologies I use :
++ 🧑‍💻 : Javascript | Typescript | Python
++ 🌐 : Angular | HTML | CSS | SCSS | SASS | Bootstrap | Angular Material
++ 🖇️ : NodeJS | NestJS
++ 📱 : Ionic
++ 🛢️ : PostgreSQL
++ 🎨 : Figma | Adobe XD
++ 📟 : Windows
++ 📋 : Jira | Slack
++ 💽 : Git | Github
+
+ <hr/>
